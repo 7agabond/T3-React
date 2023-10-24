@@ -1,5 +1,4 @@
 /* Game controls (symbols, current turn indicator, wipe score btn) */
-/* note1 */
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 80px);
